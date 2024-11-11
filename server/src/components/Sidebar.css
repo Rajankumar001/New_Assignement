@@ -1,0 +1,87 @@
+.sidebar{
+margin-top: 20px;
+margin-left: 18px;
+display: flex;
+flex-direction: column;
+width: 268px;
+height: 668px;
+gap: 16px;
+opacity: 0px;
+
+}
+.sidebar_card_one{
+  width: 268px;
+height: 196px;
+padding: 18px 43px 24px 18px;
+gap: 10px;
+border-radius: 14px 0px 0px 0px;
+background: #ECEDEE;
+box-shadow: 0px 4px 4px 0px #00000040;
+
+
+}
+.sidebar-logo-image_one{
+  background: #F42D20;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 46px;
+height: 46px;
+gap: 10px;
+border-radius: 26px;
+
+}
+.image_logo{
+width: 22px;
+height: 22px;
+
+
+}
+.sidebar_card_two{
+  width: 268px;
+height: 196px;
+padding: 18px 43px 24px 18px;
+gap: 10px;
+border-radius: 14px 0px 0px 0px;
+background: #ECEDEE;
+box-shadow: 0px 4px 4px 0px #00000040;
+
+}
+.sidebar-logo-image_two{
+  background: #E89271;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 46px;
+height: 46px;
+gap: 10px;
+border-radius: 26px;
+
+}
+.sidebar_card_three{
+ width: 268px;
+height: 196px;
+padding: 18px 43px 24px 18px;
+gap: 10px;
+border-radius: 14px 0px 0px 0px;
+background: #ECEDEE;
+box-shadow: 0px 4px 4px 0px #00000040;
+
+}
+.sidebar-logo-image_three{
+  background: #70A1E5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 46px;
+height: 46px;
+gap: 10px;
+border-radius: 26px;
+
+}
+/*  */
+.sidebar_title{
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}

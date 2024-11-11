@@ -1,0 +1,18 @@
+
+.search{
+  width: 1,519px;  
+  height:84px;
+  padding: 20px 0px 0px 0px;
+  gap: 0px;
+  border-radius: 20px 0px 0px 0px;
+  justify: space-between;
+  opacity: 0px;  
+background: #ECEDEE;
+box-shadow: 0px 4px 4px 0px #00000040;
+}
+.app{
+width: 1,519px;
+height: 668px;
+gap: 54px;
+opacity: 0px;
+}
